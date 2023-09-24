@@ -1,11 +1,12 @@
 # Bharat-Intern-Tasks
-All the tasks which was assingned by Bharat Intern are completed Succesfully
+All the tasks which was assingned by Bharat Intern for Data Science Intern are completed Succesfully
+
+# TASK:1 📊Stock Market Prediction using LSTM
+
+In this notebook, we will discover and explore data from the stock market, particularly some technology stocks. We will learn how to use to get stock information, and visualize different aspects of it using Seaborn and Matplotlib. We will look at a few ways of analyzing the risk of a stock, based on its previous performance history. We will also be predicting future stock prices through a Long Short Term Memory (LSTM) method.
 
 
-
-
-
-TASK:2 Titanic Classification Predication 📈
+# TASK:2 Titanic Classification Predication 📈
 
 Predicting the Survival of Titanic Passengers:
 
